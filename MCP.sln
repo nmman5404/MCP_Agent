@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mcp_server_dotnet", "mcp_server_dotnet", "{0EB11F1A-C186-1092-7C7B-60D4996AD7C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryServer", "mcp_server_dotnet\InventoryServer\InventoryServer.csproj", "{4DA87FB3-931B-E8DF-6CFF-477A3A6C4E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA87FB3-931B-E8DF-6CFF-477A3A6C4E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA87FB3-931B-E8DF-6CFF-477A3A6C4E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA87FB3-931B-E8DF-6CFF-477A3A6C4E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA87FB3-931B-E8DF-6CFF-477A3A6C4E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4DA87FB3-931B-E8DF-6CFF-477A3A6C4E72} = {0EB11F1A-C186-1092-7C7B-60D4996AD7C1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBAFCE0E-376E-442E-8960-3626D5B2C668}
+	EndGlobalSection
+EndGlobal
